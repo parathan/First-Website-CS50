@@ -1,3 +1,7 @@
-h1 {
-  margin: 100px;
+table {
+  border: 2px solid black;
+}
+
+tr, th, td {
+  border: 1px solid black;
 }
