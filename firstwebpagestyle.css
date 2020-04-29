@@ -1,7 +1,15 @@
+html{
+  margin: 200px;
+}
 table {
   border: 2px solid black;
 }
 
 tr, th, td {
   border: 1px solid black;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
 }
